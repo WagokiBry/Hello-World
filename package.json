@@ -1,0 +1,20 @@
+{
+  "name": "Hello-World",
+  "version": "1.0.0",
+  "description": "Project name: Set up a \"Hello Microverse\" project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PeacefulWiser/Hello-World.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/PeacefulWiser/Hello-World/issues"
+  },
+  "homepage": "https://github.com/PeacefulWiser/Hello-World#readme"
+}
